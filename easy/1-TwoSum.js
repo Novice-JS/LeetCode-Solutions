@@ -1,3 +1,6 @@
+// Youtube Link - https://www.youtube.com/watch?v=xfrMupld-eQ
+// LeetCode Link - https://leetcode.com/problems/two-sum/
+
 var twoSum = function (nums, target) {
   // create an empty object where we can store each value of num and its indicie as a key:value pair
   const hash = {};

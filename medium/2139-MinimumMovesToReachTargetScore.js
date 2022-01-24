@@ -1,3 +1,6 @@
+// Youtube Link - https://www.youtube.com/watch?v=VehsFCXDd4c
+// LeetCode Link - https://leetcode.com/problems/minimum-moves-to-reach-target-score/
+
 var minMoves = function (target, maxDoubles) {
   // create a variable to count our moves
   let moves = 0;
