@@ -1,4 +1,4 @@
-// Youtube Link - https://www.youtube.com/watch?v=VehsFCXDd4c
+// Youtube Link - https://youtu.be/qNJOL3p6Jmw
 // LeetCode Link - https://leetcode.com/problems/rearrange-array-elements-by-sign/
 
 var rearrangeArray = function (nums) {
