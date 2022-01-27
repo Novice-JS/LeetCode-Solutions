@@ -12,8 +12,10 @@
 
 <h3>[Medium]</h3>
 <ul>
+  <li><strong>1561. Maximum Number of Coins You Can Get</strong></li>
+    <a href="https://youtu.be/KIRrp_fwI_s"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/1561-MaxNumberOfCoinsYouCanGet.js"><code>Repo link</code></a></li>
   <li><strong>2139. Minimum Moves to Reach Target Score</strong></li>
     <a href="https://www.youtube.com/watch?v=VehsFCXDd4c"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/minimum-moves-to-reach-target-score/"><code>LeetCode link</code></a>  |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/2139-MinimumMovesToReachTargetScore.js"><code>Repo link</code></a></li>
   <li><strong>2149. Rearrange Array Elements by Sign</strong></li>
-    <a href="https://youtu.be/qNJOL3p6Jmw"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/2149-RearrangeArrayElementsBySign.js.js"><code>Repo link</code></a></li>
+    <a href="https://youtu.be/qNJOL3p6Jmw"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/2149-RearrangeArrayElementsBySign.js"><code>Repo link</code></a></li>
 </ul>
