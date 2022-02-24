@@ -1,37 +1,28 @@
-// Youtube Link - https://youtu.be/BnmmeaBCLVQ
-// LeetCode Link - https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
+// Youtube Link - https://youtu.be/KjfBYnf5bDY
+// LeetCode Link - https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 
-// loop solution
-var countElementsLOOP = function (nums) {
-  // set variables for the smallest and largest values in nums, also creat a count variable
-  let low = Math.min(...nums),
-    high = Math.max(...nums),
-    count = 0;
-  // loop through nums
+var minSubsequence = function (nums) {
+  // sort the array in decreasing order
+  nums.sort((a, b) => b - a);
+  // create a variable 'half' that is set to half the value of the sum of all elements in the nums array
+  let half = nums.reduce((a, c) => a + c, 0) / 2;
+  // create a result variable that is set to an empty array, create a variable to keeps a running sum of the elements in there result array
+  let res = [],
+    sum = 0;
+  // loop through the nums array
   for (let i = 0; i < nums.length; i++) {
-    // if the current iteration of nums is not equal to low AND not equal to high...
-    if (nums[i] !== low && nums[i] !== high) {
-      // increment the count by 1
-      count++;
+    // push the current iteration of the nums array into the result array
+    res.push(nums[i]);
+    // add the current iteration of the nums array to the sum value
+    sum += nums[i];
+    // if the sum variable is greater than the half variable...
+    if (sum > half) {
+      // return the result array
+      return res;
     }
   }
-  // return the count as the answer
-  return count;
 };
 
-// filter solution
-var countElementsFILTER = function (nums) {
-  // set variables for the smallest and largest values in nums
-  let low = Math.min(...nums),
-    high = Math.max(...nums);
-  // return the length of a newly filtered nums array where we filter for numbers that are not equal to low AND not equal to high
-  return nums.filter((i) => i !== low && i !== high).length;
-};
-
-// One-line soluton
-var countElementsONELINE = (nums) =>
-  nums.filter((i) => i !== Math.min(...nums) && i !== Math.max(...nums)).length;
-
-console.log(countElementsLOOP([11, 7, 2, 15])); // 2
-console.log(countElementsFILTER([-3, 3, 3, 90])); // 2
-console.log(countElementsONELINE([11, 7, 4, 15, 4])); // 3
+// console.log(minSubsequence([4,3,10,9,8])); // [10, 9]
+// console.log(minSubsequence([4,4,7,6,7])); // [7, 7, 6]
+// console.log(minSubsequence([6])); // [6]
