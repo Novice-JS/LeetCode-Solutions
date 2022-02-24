@@ -33,7 +33,7 @@ var minMoves = function (target, maxDoubles) {
   return moves;
 };
 
-console.log(minMoves(5, 0)); // 4
-console.log(minMoves(19, 2)); // 7
-console.log(minMoves(10, 4)); // 4
-console.log(minMoves(999999999, 0)); // 999999998
+// console.log(minMoves(5, 0)); // 4
+// console.log(minMoves(19, 2)); // 7
+// console.log(minMoves(10, 4)); // 4
+// console.log(minMoves(999999999, 0)); // 999999998
