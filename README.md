@@ -1,6 +1,15 @@
 # LeetCode-Solutions
 
-<h3>[Easy]</h3>
+<ul>
+  <li>
+    <a href="#easy">Easy</a>
+  </li>
+  <li>
+    <a href="#medium">Medium</a>
+  </li>
+</ul>
+    
+<h3 id="easy">[Easy]</h3>
 <ul>
   <li><strong>1. Two Sum</strong></li>
      <a href="https://www.youtube.com/watch?v=xfrMupld-eQ"><code>Watch here</code></a>  |   <a href="https://leetcode.com/problems/two-sum/"><code>LeetCode link</code></a> |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/1-TwoSum.js"><code>Repo link</code></a>
@@ -12,7 +21,7 @@
     <a href="https://youtu.be/BnmmeaBCLVQ"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/"><code>LeetCode link</code></a> | <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/2148-CountElementsWithStrictlySmallerAndGreaterElements.js"><code>Repo link</code></a></li>
 </ul>
 
-<h3>[Medium]</h3>
+<h3 id="medium">[Medium]</h3>
 <ul>
   <li><strong>532. K-diff Pairs in an Array</strong></li>
     <a href="https://youtu.be/BLok46u3fJo"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/532-KDiffPairsInAnArray.js"><code>Repo link</code></a></li>
