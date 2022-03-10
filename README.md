@@ -14,6 +14,8 @@
 
 <h3>[Medium]</h3>
 <ul>
+  <li><strong>532. K-diff Pairs in an Array</strong></li>
+    <a href="https://youtu.be/BLok46u3fJo"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/532-KDiffPairsInAnArray.js"><code>Repo link</code></a></li>
   <li><strong>1561. Maximum Number of Coins You Can Get</strong></li>
     <a href="https://youtu.be/KIRrp_fwI_s"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/"><code>LeetCode link</code></a>   |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/medium/1561-MaxNumberOfCoinsYouCanGet.js"><code>Repo link</code></a></li>
   <li><strong>2139. Minimum Moves to Reach Target Score</strong></li>
