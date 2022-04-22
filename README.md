@@ -15,7 +15,7 @@
      <a href="https://www.youtube.com/watch?v=xfrMupld-eQ"><code>Watch here</code></a>  |   <a href="https://leetcode.com/problems/two-sum/"><code>LeetCode link</code></a> |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/1-TwoSum.js"><code>Repo link</code></a>
   <li><strong>1403. Minimum Subsequence in Non-Increasing Order</strong></li>
      <a href="https://youtu.be/KjfBYnf5bDY"><code>Watch here</code></a>  |   <a href="https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/"><code>LeetCode link</code></a> |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/1403-MinimumSubsequenceInNonIncreasingOrder.js"><code>Repo link</code></a>
-  <li><strong>1903. Minimum Subsequence in Non-Increasing Order</strong></li>
+  <li><strong>1903. Largest Odd Number In Stringr</strong></li>
      <a href="https://youtu.be/BL6u5HLRwoQ"><code>Watch here</code></a>  |   <a href="https://leetcode.com/problems/largest-odd-number-in-string/"><code>LeetCode link</code></a> |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/1903-LargestOddNumberInString.js"><code>Repo link</code></a>
   <li><strong>2144. Minimum Cost of Buying Candies With Discount</strong></li>  
     <a href="https://youtu.be/tq50lXY171E"><code>Watch here</code></a>  |  <a href="https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/"><code>LeetCode link</code></a>  |  <a href = "https://github.com/Novice-JS/LeetCode-Solutions/blob/main/easy/2144-MinimumCostOfBuyingCandiesWithDiscount.js"><code>Repo link</code></a>
